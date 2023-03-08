@@ -1,0 +1,54 @@
+.btn{
+    padding: 10px 8px;
+    width: 100px;
+    color: #ffff;
+    background: #209915;
+    border: 1px solid #555;
+    border-radius: 5px;
+    text-align: center;
+    user-select: none;
+    cursor: pointer;
+    transition: 0.3s;
+    margin: 20px 670px;
+   
+}
+
+.btn:hover{
+    background:  #0a5c03;
+    
+}
+
+  .bg {
+    background-image: url("5438849.jpg");
+			animation: animacao 20s infinite;
+  }
+       @keyframes animacao {
+        0%   {background-position: 0% 0%;}
+        40%  {background-position: 40% 70%;}
+        100% {background-position: 0% 0%;}
+      }
+  
+  
+h1{
+    font-family: "Lucida Console", "Courier New", monospace;
+    display: block;
+    border-radius: 5px;
+    background-color: rgba(152,68,183,1);
+    text-align: center;
+  
+  }
+
+p{
+  font-family: "Lucida Console", "Courier New", monospace;
+  border-radius: 10px;
+  
+}
+  .pp{
+
+display: inline;
+justify-content:center;
+align-items: center
+  }
+ 
+
+
